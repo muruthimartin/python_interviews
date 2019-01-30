@@ -1,4 +1,4 @@
-"""pig latin is an interesting python game. If a user inputa a word that atarts with
+"""pig latin is an interesting python game. If a user inputs a word that starts with
 a vowel, the program appends 'way' to the word. If the word starts with a consonant,
 the program removes the consonants preceeding the first vowel, appends the consonants
 to the end of the word and adds 'ay' at the end. Lets have fun with pig latin """
